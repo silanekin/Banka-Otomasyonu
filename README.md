@@ -1,2 +1,2 @@
-# Banka-Sistemi
+# Banka-Otomasyonu
 C#
